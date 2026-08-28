@@ -1,0 +1,7 @@
+# venv lives at root
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
