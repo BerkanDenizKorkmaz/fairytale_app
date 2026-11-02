@@ -1,5 +1,7 @@
 # 📚 Fairytale Reading App
 
+https://fairytaleapp.vercel.app/
+
 An interactive reading and literacy companion designed to help children practice reading aloud with real-time feedback, progress tracking, and parent oversight.
 
 ---
@@ -20,11 +22,11 @@ An interactive reading and literacy companion designed to help children practice
 * **Audio Engine:** FastAPI streaming & endpoints for STT/TTS processing
 
 ### **Frontend**
-* **Framework:** React 18 built with Vite[cite: 11, 17]
-* **Routing:** React Router v6 (`react-router-dom`) handling protected dashboards and dynamic library routes[cite: 9]
-* **Styling:** Tailwind CSS for responsive, utility-first design[cite: 10, 12, 13]
+* **Framework:** React 18 built with Vite
+* **Routing:** React Router v6 (`react-router-dom`) handling protected dashboards and dynamic library routes
+* **Styling:** Tailwind CSS for responsive, utility-first design
 * **HTTP Client:** Axios for backend API communication
-* **Speech Integration:** Native HTML5 Web Speech API (`SpeechRecognition` & `SpeechSynthesisUtterance`)[cite: 15]
+* **Speech Integration:** Native HTML5 Web Speech API (`SpeechRecognition` & `SpeechSynthesisUtterance`)
 
 ---
 
