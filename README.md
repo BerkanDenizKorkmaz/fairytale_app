@@ -43,16 +43,16 @@ An interactive reading and literacy companion designed to help children practice
 │   └── requirements.txt   # Backend dependencies
 │
 └── frontend/
-    ├── index.html         # Vite HTML entry point[cite: 8]
+    ├── index.html         # Vite HTML entry point
     ├── src/
     │   ├── api/
     │   │   └── client.js  # Axios instance configured with environment variables
     │   ├── pages/
     │   │   ├── AuthPage.jsx      # Parent login/registration with KVKK consent
-    │   │   ├── Dashboard.jsx     # Profile selection and child creation[cite: 13]
-    │   │   ├── Library.jsx       # Available catalogue, downloaded books, and reading history[cite: 14]
-    │   │   ├── ReadingScreen.jsx # Active reading interface with speech recognition and progress tracking[cite: 15]
-    │   │   └── SummaryScreen.jsx # Post-session accuracy stats and achievement badges[cite: 16]
-    │   ├── App.jsx        # App routing and global token state management[cite: 9]
-    │   ├── index.css      # Tailwind imports[cite: 10]
-    │   └── main.jsx       # React DOM rendering[cite: 11]
+    │   │   ├── Dashboard.jsx     # Profile selection and child creation
+    │   │   ├── Library.jsx       # Available catalogue, downloaded books, and reading history
+    │   │   ├── ReadingScreen.jsx # Active reading interface with speech recognition and progress tracking
+    │   │   └── SummaryScreen.jsx # Post-session accuracy stats and achievement badges
+    │   ├── App.jsx        # App routing and global token state management
+    │   ├── index.css      # Tailwind imports
+    │   └── main.jsx       # React DOM rendering
