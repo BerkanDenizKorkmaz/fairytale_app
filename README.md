@@ -1,3 +1,9 @@
+> ### ⚠️ IMPORTANT DISCLAIMER / NOTICE
+> **This project is for entertainment, testing, and educational purposes only. Please DO NOT enter any real personal data (such as your actual email address or passwords).**
+> 
+> This website is developed entirely as a personal project and portfolio piece. It does not serve any commercial purpose. Any data or input submitted to the system is used solely for testing server/database functionality and is not actively processed, stored long-term, or shared with third parties. The developer assumes no responsibility or liability for any data entered by users or for how this open-source code is utilized by others.
+
+
 # 📚 Fairytale Reading App
 
 https://fairytaleapp.vercel.app/
